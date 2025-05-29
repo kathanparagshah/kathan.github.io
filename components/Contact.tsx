@@ -125,7 +125,8 @@ const Contact: React.FC = () => {
               <div className="pt-8 border-t border-gray-200">
                 <a
                   href="/kathan parag shah | cv.pdf"
-                  download="Kathan_Parag_Shah_CV.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="btn-primary w-full sm:w-auto justify-center"
                 >
                   <FiDownload size={20} />

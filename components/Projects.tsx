@@ -74,6 +74,7 @@ const Projects: React.FC = () => {
       featured: true
     },
     {
+      id: 7,
       title: 'Demographic Data Analyzer',
       description: 'A Python application combining Pandas, GeoPandas, and Folium (or Plotly) to map and chart census-style demographic data by region. Interactive filters let users drill into age, income, education, and population changes over time—useful for urban planners, policy analysts, and social-impact projects.',
       impact: 'Empowers data-driven decision making for urban planning and policy analysis through interactive demographic visualization',

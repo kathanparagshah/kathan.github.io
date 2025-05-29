@@ -48,7 +48,7 @@ const Hero: React.FC = () => {
               className="btn-primary"
             >
               <FiDownload size={20} />
-              Download Resume
+              Resume
             </a>
             
             <button

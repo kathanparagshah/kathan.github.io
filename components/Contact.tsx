@@ -130,7 +130,7 @@ const Contact: React.FC = () => {
                   className="btn-primary w-full sm:w-auto justify-center"
                 >
                   <FiDownload size={20} />
-                  Download Resume
+                  Resume
                 </a>
               </div>
             </div>

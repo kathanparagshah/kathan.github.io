@@ -32,23 +32,23 @@ const About: React.FC = () => {
             <div className="space-y-6">
               <p className="text-lg text-gray-700 leading-relaxed">
                 My journey into the intersection of technology and economics began with a fascination for how 
-                digital systems can solve real-world problems and drive economic growth. As a Computer Science 
-                and Economics double major at Arizona State University, I've discovered that the most impactful 
-                solutions emerge when technical innovation meets economic understanding.
+                digital systems can solve real world problems and drive economic growth. As a Computer Science 
+                and Economics double major at Arizona State University I have seen firsthand that the most 
+                impactful solutions emerge when technical innovation meets economic insight.
               </p>
               
               <p className="text-lg text-gray-700 leading-relaxed">
-                What drives me is the potential to create technology that not only functions beautifully but 
-                also generates meaningful economic value. Whether I'm developing full-stack applications or 
-                analyzing market trends, I approach every challenge with the mindset that great software 
-                should be both technically excellent and economically viable.
+                What drives me is the potential to build technology that not only functions beautifully but 
+                also generates meaningful economic value. Whether I am building full stack applications or 
+                analyzing market trends I approach each challenge with the belief that great software 
+                should be both technically robust and economically viable.
               </p>
               
               <p className="text-lg text-gray-700 leading-relaxed">
-                I'm passionate about leveraging my dual expertise to build products that bridge the gap 
-                between cutting-edge technology and sound business strategy. My goal is to contribute to 
-                innovative teams where I can apply both my technical skills and economic insights to create 
-                solutions that make a lasting impact in the digital economy.
+                When I am not prototyping new features or digging into data you will find me exploring new 
+                cities, gliding across the ice at my local rink or curled up with a classic 1990s movie. 
+                Travel, ice skating and vintage cinema keep my creativity sharp and remind me that the best 
+                ideas often come from life outside the code.
               </p>
             </div>
             

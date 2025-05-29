@@ -129,11 +129,7 @@ const Layout: React.FC<LayoutProps> = ({
       <footer className="bg-gray-50 border-t border-gray-200">
         <div className="container-max section-padding py-12">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <div className="mb-4 md:mb-0">
-              <p className="text-gray-600">
-                © 2024 Kathan Parag Shah. All rights reserved.
-              </p>
-            </div>
+
             <div className="flex space-x-6">
               <a
                 href="https://github.com"

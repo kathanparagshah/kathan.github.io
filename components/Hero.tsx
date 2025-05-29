@@ -42,7 +42,7 @@ const Hero: React.FC = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
             <a
-              href="/kathan.github.io/resume.pdf"
+              href="/kathan.github.io/Kathan Parag Shah | CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"

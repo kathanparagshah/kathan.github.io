@@ -124,7 +124,7 @@ const Contact: React.FC = () => {
               {/* Resume Download */}
               <div className="pt-8 border-t border-gray-200">
                 <a
-                  href="/Kathan Parag Shah | CV.pdf"
+                  href="/Kathan%20Parag%20Shah%20%7C%20CV.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary w-full sm:w-auto justify-center"

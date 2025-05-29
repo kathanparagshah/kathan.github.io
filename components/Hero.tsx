@@ -42,13 +42,13 @@ const Hero: React.FC = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
             <a
-              href="/Kathan_Parag_Shah_CV.pdf"
+              href="/Kathan Parag Shah | CV.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary"
             >
               <FiDownload size={20} />
-              Resume
+              Download Resume
             </a>
             
             <button

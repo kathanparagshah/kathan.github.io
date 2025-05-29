@@ -124,13 +124,13 @@ const Contact: React.FC = () => {
               {/* Resume Download */}
               <div className="pt-8 border-t border-gray-200">
                 <a
-                  href="/Kathan_Parag_Shah_CV.pdf"
+                  href="/Kathan Parag Shah | CV.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-primary w-full sm:w-auto justify-center"
                 >
                   <FiDownload size={20} />
-                  Resume
+                  Download Resume
                 </a>
               </div>
             </div>

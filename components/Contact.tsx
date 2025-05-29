@@ -92,7 +92,7 @@ const Contact: React.FC = () => {
                   Let's Connect
                 </h3>
                 <p className="text-gray-600 mb-8 leading-relaxed">
-                  I'm currently seeking full-time opportunities as a Software Engineer. 
+                  I'm currently seeking internships and full-time opportunities in data science. 
                   If you think I'd be a good fit for your team, I'd love to hear from you!
                 </p>
               </div>

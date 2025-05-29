@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
           <div className="mb-8 flex justify-center">
             <div className="relative w-48 h-48 md:w-56 md:h-56 rounded-full overflow-hidden border-4 border-white shadow-2xl">
               <Image
-                src="/profile picture.jpeg"
+                src="/kathan.github.io/profile picture.jpeg"
                 alt="Kathan Parag Shah"
                 fill
                 className="object-cover"

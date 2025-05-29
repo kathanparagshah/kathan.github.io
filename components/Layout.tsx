@@ -132,7 +132,7 @@ const Layout: React.FC<LayoutProps> = ({
 
             <div className="flex space-x-6">
               <a
-                href="https://github.com"
+                href="https://github.com/kathanparagshah"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -140,7 +140,7 @@ const Layout: React.FC<LayoutProps> = ({
                 <FiGithub size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/kathan-shah-90ba43263/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -148,7 +148,7 @@ const Layout: React.FC<LayoutProps> = ({
                 <FiLinkedin size={20} />
               </a>
               <a
-                href="mailto:contact@example.com"
+                href="#contact"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
               >
                 <FiMail size={20} />

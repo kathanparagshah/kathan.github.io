@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website
 
 A modern, responsive personal portfolio website built with Next.js, TypeScript, and Tailwind CSS. Features a clean, professional design optimized for performance and SEO.
